@@ -2,7 +2,7 @@
 - 👀 I’m interested in YouTube + Gaming
 - 🌱 I’m currently learning Pygame
 - 💞️ I’m looking to collaborate on Coding
-- 🤩 I'm on <a href="https://www.youtube.com/channel/UC5Eownd4m3jNeUywXsfKNnQ">YouTube!
+- 🤩 I'm on <a href="https://www.youtube.com/channel/UC5Eownd4m3jNeUywXsfKNnQ">YouTube!</a>
 - 📫 How to reach me at: 2029aidenm517@student.whps.org
 
 <!---
